@@ -326,10 +326,6 @@ The bug here is that if I send a role change request directly to the backend, I 
 
   https://medium.com/meetcyber/the-hidden-dangers-of-misconfigured-cloud-storage-c9debc08f506
 
-- Essential Programming Languages with Ecosystems
-
-  https://medium.com/meetcyber/essential-programming-languages-with-ecosystems-cec8f61a1139
-
 - Unsafe Eval = Unlimited Control: How a JS Sink Let Me Run Anything
 
   https://medium.com/@iski/%EF%B8%8F-unsafe-eval-unlimited-control-how-a-js-sink-let-me-run-anything-60794929a295
