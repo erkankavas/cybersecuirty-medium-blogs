@@ -475,10 +475,6 @@ The bug here is that if I send a role change request directly to the backend, I 
 
   https://medium.com/@kingcoolvikas/mass-message-injection-and-idor-in-account-verification-c599b729321d
 
-- IDOR allow Zero Click account takeover on a web3 program
-  
-  https://medium.com/bugbountywriteup/idor-allow-zero-click-account-takeover-on-a-web3-program-abef994d2aef
-
 - Insecure by Design: How a Mobile API Let Me Reset Anyone’s Password With Just a Phone Number
   
   https://medium.com/bugbountywriteup/insecure-by-design-how-a-mobile-api-let-me-reset-anyones-password-with-just-a-phone-number-ba588ec384e5
